@@ -1,0 +1,1 @@
+"""Data models. Pydantic for validation, dataclasses for hot paths."""
