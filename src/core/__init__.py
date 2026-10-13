@@ -1,0 +1,1 @@
+"""Core domain logic. No I/O, no framework, no imports from services/adapters."""
