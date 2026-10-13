@@ -1,0 +1,1 @@
+"""Platform + external adapters. One adapter, one external thing."""
