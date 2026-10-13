@@ -1,0 +1,1 @@
+"""Configuration layer. One file, one concern."""
