@@ -1,0 +1,1 @@
+"""Thin handlers. Parse input, call a service, format output. No logic."""
